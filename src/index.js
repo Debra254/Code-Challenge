@@ -40,9 +40,11 @@ function addGUEST(event){
   guestlist.appendChild(List);
   guestNameInput.value="";
 
- 
   }
 const button=document.getElementById('btn');
 button.addEventListener('click',addGUEST); 
+
+
+ 
 
 
